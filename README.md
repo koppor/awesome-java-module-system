@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-# awesome-java-module-system
+# awesome-java-modules
 A curated list of resources related to the Java Module System ([JSR 376](https://www.jcp.org/en/jsr/detail?id=376))
 
 
