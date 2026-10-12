@@ -12,7 +12,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Talks](#talks)
 - [Literature](#literature)
 - [Courses](#courses)
-
+- [Tools](#tools)
 
 ## Official Links
 - [Module Declarations](https://docs.oracle.com/javase/specs/jls/se9/html/jls-7.html#jls-7.7) - Java Language Specification for Modules
@@ -57,3 +57,8 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 ## Courses
 - [Java 9 Modularity: First Look](https://www.pluralsight.com/courses/java-9-modularity-first-look) (Sander Mak; Pluralsight (subscription needed)
+
+
+## Tools
+- [Netflix Java Module System development tool](https://github.com/Netflix/ja) - Java module descriptor as the source of truth throughout development
+- [Java Module Dependencies Gradle plugin](https://github.com/gradlex-org/java-module-dependencies) - Java modules as first-class dependencies for Gradle-based builds
