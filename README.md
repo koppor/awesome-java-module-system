@@ -14,6 +14,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Courses](#courses)
 - [Tools](#tools)
 
+
 ## Official Links
 - [Module Declarations](https://docs.oracle.com/javase/specs/jls/se9/html/jls-7.html#jls-7.7) - Java Language Specification for Modules
 - [Project Jigsaw](https://openjdk.java.net/projects/jigsaw) - Lists primary goals + _Key documents, presentations, & other resources_
@@ -28,6 +29,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Code-First Java Module System Tutorial](https://blog.codefx.org/java/java-module-system-tutorial/)
 - [Modules vs. Microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
 - [Java Modules Cheat Sheet](https://github.com/tfesenko/Java-Modules-JPMS-CheatSheet)
+
 
 ### Advanced
 - [Automatic-Module-Name: Calling all Java Library Maintainers](http://branchandbound.net/blog/java/2017/12/automatic-module-name/)
